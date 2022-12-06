@@ -140,6 +140,17 @@ figure.background img.bg-bottom {
 
   color: var(--grayish-blue);
 }
+hr {
+  width: 100%;
+  height: 0.005rem;
+  border: none;
+
+  position: absolute;
+  top: 290px;
+  left: 0;
+
+  background-color: var(--Dark-gray);
+}
 /* Stats */
 .profile-card .stats {
   display: flex;

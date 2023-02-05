@@ -5,8 +5,18 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Screenshot
 
 ![Desktop](./screenshot/img-1.png)
-![Mobile](./screenshot/img-2.png)
 
 ## Demo
 
-https://muhammad-adam778.github.io/Profile-card-component/
+https://muhammad-abdusalam.github.io/Profile-card-component/
+
+### Built with ⚒️
+
+- HTML
+- CSS
+- JS
+
+### Author
+
+- Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
+- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
